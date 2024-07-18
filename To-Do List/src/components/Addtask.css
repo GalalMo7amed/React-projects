@@ -1,0 +1,12 @@
+form .btn{
+word-spacing: 5px;
+font-size: 20px;
+}
+.modal-content{
+    background: #3c424a !important;
+
+}
+.modal-body input{
+    margin-bottom: 20px !important;
+    width: 100%;
+}
